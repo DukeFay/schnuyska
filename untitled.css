@@ -27,7 +27,7 @@ body {
       transform: translate(-50%, -50%);
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
     .fullscreen-bg {
         background: url('poster.jpg') center center / cover no-repeat;
     }
@@ -35,7 +35,7 @@ body {
     .fullscreen-bg__video {
         display: none;
     }
-}
+} */
 
 .centeredImage {
   margin:auto;
