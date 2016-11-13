@@ -20,9 +20,9 @@ video#bgvid {
     background-size: cover; 
 }
 
-@media screen and (max-device-width: 768px) {
+@media screen and (max-device-width: 800px) {
     html {
-         background: url(poster.jpg) #000 no-repeat center center fixed;
+         background: url(poster.jpg) #00ff00 no-repeat center center fixed;
     }
     #bgvid {
         display: none;
